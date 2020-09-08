@@ -36,7 +36,7 @@ Add `detect-no-assignment` to the plugins section of your `.eslintrc` configurat
 {
   "plugins": ["detect-no-assignment"],
   "rules": {
-    "detect-no-assignment/detect-no-assignment": ["error", 5]
+    "detect-no-assignment/detect-no-assignment": "error"
   }
 }
 ```

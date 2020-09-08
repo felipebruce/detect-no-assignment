@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-detect-no-assignment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detect functions like map, filter and reduce without being assigned to a variable",
   "repository": "https://github.com/felipebruce/detect-no-assignment",
   "homepage": "https://github.com/felipebruce/detect-no-assignment",
